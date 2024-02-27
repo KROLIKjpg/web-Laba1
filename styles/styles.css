@@ -1,0 +1,139 @@
+body {
+  background-color: #fcfcfc;
+  color: #000000;
+  margin: 0;
+  padding: 0;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.5rem;
+}
+
+.page-container {
+  box-sizing: border-box;
+  width: 59.375rem;
+  margin: 0 auto;
+}
+
+.word-page {
+  box-shadow: 0rem 0rem .9375rem 0rem rgba(0, 0, 0, 0.2);
+  background-color: #ffffff;
+  padding: 5.625rem 3.75rem;
+  margin-bottom: 1.5625rem;
+}
+
+.header-title {
+  text-align: center;
+  margin: 0;
+  margin-bottom: 1.25rem;
+  font-weight: 400;
+  font-size: 1.5rem;
+}
+
+.header-title:nth-child(3) {
+  margin-bottom: 9.375rem;
+}
+
+.nstu-logo {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 4.375rem;
+}
+
+.lab-info {
+  text-align: center;
+  margin-bottom: 10rem;
+}
+
+.lab-info-subtitle {
+  margin: 0;
+  margin-bottom: 1.25rem;
+}
+
+.page-title {
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  margin: 0;
+  text-align: center;
+  margin-bottom: 1.25rem;
+}
+
+.tutor-info {
+  text-align: end;
+  font-size: 1.5rem;
+  margin-bottom: 2.8125rem;
+}
+
+.tutor-info-title,
+.tutor-info-subtitle {
+  margin-bottom: .9375rem;
+}
+
+.students-info {
+  text-align: end;
+  font-size: 1.5rem;
+  margin-bottom: 8.75rem;
+}
+
+.students-info-title,
+.tutor-info-title {
+  font-weight: 400;
+  font-size: 1.5rem;
+  margin: 0;
+}
+.students-info-subtitle,
+.tutor-info-subtitle {
+  display: block;
+}
+
+.students-info-title,
+.students-info-subtitle {
+  margin-bottom: .9375rem;
+}
+.tutor-info-title,
+.tutor-info-subtitle {
+  margin-bottom: .9375rem;
+}
+
+.word-page-footer {
+  text-align: center;
+}
+
+.footer-title {
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin: 0;
+}
+
+.tasks-title {
+  text-transform: uppercase;
+  margin: 0;
+  text-align: center;
+}
+
+.tasks-main-list {
+  font-size: 1.5rem;
+}
+
+.tasks-main-item {
+  margin-bottom: .9375rem;
+}
+
+.task-description {
+  font-size: 1.5rem;
+}
+
+.task-image {
+  display: block;
+  margin: 0 auto;
+}
+
+.task-image-description {
+  text-align: center;
+}
+
+.back-link {
+  font-size: 1.625rem;
+}
+
+.theory-title {
+  text-align: center;
+}
